@@ -1,2 +1,2 @@
 # osTaskmaster
-A Task-based utility for writing Oldschool Runescape botting scripts.
+A task-based library for writing Oldschool Runescape botting scripts.
